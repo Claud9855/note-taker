@@ -7,7 +7,7 @@
 
 # URL
 ------
-- link to url: 
+- link to url: https://notetaker-exxpress.herokuapp.com
 
 # Screenshots
 -------------
