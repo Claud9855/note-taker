@@ -9,5 +9,17 @@
 ------
 - link to url: https://notetaker-exxpress.herokuapp.com
 
+# Technologies
+---------------
+- node.js
+- express.js
+
 # Screenshots
 -------------
+home page
+![image](https://user-images.githubusercontent.com/37052240/203176520-4669920e-b15c-4f69-90f9-a770f77528e6.png)
+
+note page
+![image](https://user-images.githubusercontent.com/37052240/203176628-fd13f5e3-5147-40fe-9181-f629398661b5.png)
+
+
